@@ -1,8 +1,9 @@
+**Portfolio**
 A clean, responsive, and fully functional personal portfolio website to showcase my projects, skills, resume, and contact information. Designed to reflect my personal brand and built to highlight my journey in tech.
 
 This portfolio was created to demonstrate my proficiency in front-end technologies, design aesthetics, and web deployment.
 
-🚀 Features:
+🚀Features:
 Home, About, Skills, Projects, and Contact sections
 
 Fully responsive design (mobile/tablet/desktop)
